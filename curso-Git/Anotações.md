@@ -1,4 +1,4 @@
-# Conceitos básicos do Git#
+#Conceitos básicos do Git#
 
 **Repositório** – é o agrupamento lógico do arquivos de um projeto. Imagine que você tem dois projetos diferentes um de e-commerce e um de blog, o código fonte de cada um deles ficará separado em repositório diferentes.
 
